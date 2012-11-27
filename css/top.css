@@ -1,0 +1,74 @@
+/** CSS for header and footer **/
+
+#header {
+    padding-top: 12px;
+    padding-bottom: 8px;
+    color: #888888;
+    width: 100%;
+    /*letter-spacing: 0px;*/
+   font-size: 14px;
+   border-bottom-style: solid;
+   border-bottom-width:thin;
+   background-color: #F8F8F8;
+   margin-bottom:16px;
+}
+
+#header h1 {
+    margin: 0;
+    font-size: 38px;
+}
+
+#header p {
+    margin: 0;
+}
+
+#header a:link, #footer a:visited {
+	text-decoration:none;
+}
+
+#logoBox {
+    display: inline-block;
+    vertical-align: top;
+}
+
+#logoBox img {
+    /* width:300px; */
+    margin: 0;
+    /* position: relative;
+     top:-2em; */
+}
+
+#pageTitleBox {
+	display: inline-block;
+	padding-left:8px;
+	padding-top:24px;
+}
+
+#footer {    
+    width: 100%;    
+    text-align: center;
+    border-top-style: solid;
+    background-color: #F8F8F8;
+    color: #888888;    
+}
+
+#footer a:link, #footer a:visited {
+	text-decoration:none;
+}
+
+#footer ul {
+    margin-right: auto;
+    margin-left: auto;
+    width: 960px;
+    padding:0;
+    padding-bottom: 1em;
+    -webkit-margin-after:0px;
+}
+
+#footer ul li {
+    list-style: none inside;
+    display:inline-block;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
