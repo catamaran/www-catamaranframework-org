@@ -3,6 +3,7 @@
     
     <link type="text/css" rel="stylesheet" href="css/site.css" media="screen, projection">
     <link type="text/css" rel="stylesheet" href="css/top.css" media="screen, projection">
+    <link type="text/css" rel="stylesheet" href="css/wordpress.css" media="screen, projection">
     
 </head>
 <body>
@@ -10,9 +11,11 @@
     <div id="outerContent">
         <div id="content">
             <?php include("include/top.php"); ?>
+            <?php include("include/nav.php"); ?>
             
             <h1>Rapid Web Development with Java</h1>
             <p>Catamaran Framework ties together best-practice Spring MVC, Hibernate, Tomcat, HTML/CSS, and jQuery in a ready-to-use framework, without sacrificing any of the power and flexibility of Java and related industry standard tools.</p>
+            
             
             <h2>Features</h2>
             <ul>
@@ -41,6 +44,15 @@
                 <li>TODO: Push javadoc to github: https://help.github.com/articles/creating-project-pages-manually </li>
                 <li>The great debate: "Dynamic languages are common because they are much easier to use than Java or .Net on the background, providing as much as 10x more developer productivity." -- <a href="http://www.cio.com/article/446829/PHP_JavaScript_Ruby_Perl_Python_and_Tcl_Today_The_State_of_the_Scripting_Universe?page=3&taxonomyId=3038">Jeff Hobbs</a></li>
             -->
+            
+            <!-- footer -->
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            
             
         </div> <!-- content -->
     </div> <!-- outerContent -->

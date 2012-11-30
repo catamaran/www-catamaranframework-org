@@ -4,6 +4,7 @@
     
     <link type="text/css" rel="stylesheet" href="css/site.css" media="screen, projection">
     <link type="text/css" rel="stylesheet" href="css/top.css" media="screen, projection">
+    <link type="text/css" rel="stylesheet" href="css/wordpress.css" media="screen, projection">
     
 </head>
 <body>
@@ -11,6 +12,7 @@
     <div id="outerContent">
         <div id="content">
             <?php include("include/top.php"); ?>
+            <?php include("include/nav.php"); ?>
             
             <h1>Catamaran Tutorial</h1>
             <p>
@@ -24,13 +26,15 @@
                 
                 <img src="img/Under-Construction.gif"/>
                 
-                
-                
-                
-                
-                
-                
-            </p>                    
+            </p>
+            
+            <!-- footer -->
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>
+            <br/>                    
                 
          </div> <!-- content -->
     </div> <!-- outerContent -->
