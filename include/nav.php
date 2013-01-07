@@ -5,6 +5,7 @@
         <ul id="menu-catamaran-menu" class="nav-menu">
             <li id="menu-item-30" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30"><a href="http://catamaranframework.com">Overview</a></li>
             <li id="menu-item-29" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29"><a href="http://catamaranframework.org/tutorial">Tutorial</a></li>
+            <li id="menu-item-26" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-26"><a href="http://faq.catamaranframework.org/">FAQ</a></li>
             <li id="menu-item-36" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-36"><a href="http://blog.catamaranframework.org/">Blog</a></li>
             <li id="menu-item-31" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-31"><a href="https://github.com/catamaran">Source</a></li>
             <li id="menu-item-32" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-32"><a href="http://maven.catamarancode.org/">Download</a></li>
